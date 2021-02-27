@@ -140,15 +140,17 @@ public class DialogueManager : MonoBehaviour
             case 2:
                 //Add a platform
                 GameObject invisibleTile = GameObject.Find("InvisibleTile");
-                invisibleTile.transform.position = new Vector3(20, -1.5f, 0);
+                invisibleTile.transform.position = new Vector3(32.5f, -1.5f, 0);
                 Player.canMove = true;
              
                
                 break;
             case 3:
-                //Higher jumping
-                Player.jumpHeight = 60;
-                Player.canMove = true; 
+                //Adds a spring
+                GameObject spring = GameObject.Find("Spring");
+                spring.transform.position = new Vector3(19.5f, .5f, 0);
+                Player.canMove = true;
+
                 break;
         }
     }

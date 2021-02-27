@@ -5,6 +5,7 @@ using UnityEngine;
 public class Feet : MonoBehaviour
 {
     public Player Player;
+    public int springHeight;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +24,10 @@ public class Feet : MonoBehaviour
         if (other.gameObject.CompareTag("Floor")) //&& jumping)
         {
             Player.jumping = false;
+        }
+        else if (other.gameObject.CompareTag("Spring"))
+        {
+            Player.rigidBody.AddForce(new Vector2(0, springHeight), ForceMode2D.Impulse);
         }
     }
 }

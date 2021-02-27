@@ -18,13 +18,13 @@ public class Player : MonoBehaviour
     public Interactable insideTrigger;
     public GameManager GameManager;
     public Camera playerCamera;
-    private float abilityInterval = 0f;
+    public float abilityInterval = 0f;
     private float LastMove = 7.0f;
     public bool jumping = false;
     public GameObject Bullet;
     public float Health = .3f;
     public float MaxHealth = .3f;
-
+    public float bulletSpeed, bulletTime;
     public Slider Healthbar;
     public int UniqueId;
     public Upgrade upgrade;
@@ -94,8 +94,7 @@ public class Player : MonoBehaviour
             {
                 if(shadowActive)
                 {
-                    shadowLength -= Time.deltaTime;
-                    if(shadowLength <= 0)
+                    if(abilityInterval <= 0)
                     {
                         gameObject.layer = 8;
                         feet.gameObject.layer = 8;
@@ -116,8 +115,8 @@ public class Player : MonoBehaviour
                     {
                         GameObject bulletObject = Instantiate(Bullet, gameObject.transform.position + new Vector3(LastMove > 0 ? 1 : -1, 0, 0), Quaternion.identity);
                         BulletScript bs = bulletObject.GetComponent<BulletScript>();
-                        bs.Speed = LastMove * 2;
-                        bs.TimeAlive = .2f;
+                        bs.Speed = LastMove * 2 * bulletSpeed;
+                        bs.TimeAlive = .2f * bulletTime;
                         abilityInterval = raygunRecharge;
                     }
                     else
@@ -126,6 +125,7 @@ public class Player : MonoBehaviour
                         shadowActive = true;
                         gameObject.layer = 10;
                         feet.gameObject.layer = 10;
+                        abilityInterval = shadowRecharge;
                     }
                 }
             }
@@ -187,7 +187,7 @@ public class Player : MonoBehaviour
                 ConversationObject conversationObject = new ConversationObject();
                 conversationObject.DialogueArray.Add("Oh, I guess that jump was too far. Sorry. Hmmm, how should I fix this?");
                 conversationObject.Options.Add(new OptionObject { OptionText = "Add a platform?", DialogueId = 2 });
-                conversationObject.Options.Add(new OptionObject { OptionText = "Higher jumping?", DialogueId = 3 });
+                conversationObject.Options.Add(new OptionObject { OptionText = "Add a spring?", DialogueId = 3 });
                 StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObject));
                 //this.gameObject.SetActive(false);
             }
