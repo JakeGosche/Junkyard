@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637497127031905233
-    m_Hash: 1289630939
+      ticks: 637490054553391452
+    m_Hash: 3567136937
   m_LockFileStatus:
     m_FilePath: C:/Game Projects/Junkyard/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637497128212586605
-    m_Hash: 919429424
+      ticks: 637490055885471609
+    m_Hash: 3043929301
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -1063,7 +1063,6 @@ m_PackageAssets:
         - 1.5.0
         - 1.5.1
         - 1.5.3
-        - 1.5.4
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -1082,7 +1081,6 @@ m_PackageAssets:
         - 2.1.0
         - 2.1.1
         - 2.1.3
-        - 2.1.4
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -1097,12 +1095,10 @@ m_PackageAssets:
         - 3.0.0
         - 3.0.1
         - 3.0.3
-        - 3.0.4
         compatible:
         - 3.0.1
         - 3.0.3
-        - 3.0.4
-        verified: 3.0.4
+        verified: 3.0.3
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -1139,12 +1135,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
         revision: 1604b62e543216408311bcd1355a7a9ca1e65765
         path: 
-    - packageId: com.unity.timeline@1.4.6
+    - packageId: com.unity.timeline@1.3.0
       testable: 0
       isDirectDependency: 1
-      version: 1.4.6
+      version: 1.3.0
       source: 1
-      resolvedPath: C:\Game Projects\Junkyard\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: C:\Game Projects\Junkyard\Library\PackageCache\com.unity.timeline@1.3.0
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1266,24 +1262,8 @@ m_PackageAssets:
         - 1.5.2
         - 1.6.0-pre.1
         verified: 1.4.6
-      dependencies:
-      - name: com.unity.modules.director
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.particlesystem
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.modules.director
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.particlesystem
-        version: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
       keywords:
       - unity
       - animation
@@ -1302,13 +1282,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637463150940000000
+      datePublishedTicks: 637185135430000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 2fe55e5d14362cc4fdcc886f56dbfe518298e4a5
+        revision: e064b48ba8244818eae6777dfbcd0805a933bf69
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0

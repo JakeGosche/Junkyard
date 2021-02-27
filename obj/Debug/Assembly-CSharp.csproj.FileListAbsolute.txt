@@ -1,0 +1,644 @@
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\mscorlib.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\netstandard.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\PsdPlugin.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.AppContext.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Collections.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ComponentModel.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Console.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Core.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Data.Common.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Data.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Drawing.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Globalization.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.Compression.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Linq.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.Http.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.Ping.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.Requests.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.Security.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Numerics.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ObjectModel.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Reflection.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Claims.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.Principal.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Transactions.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.ValueTuple.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Web.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Windows.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Mathematics.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Timeline.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.VisualStudio.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEditor.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Cecil.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEditor.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\PsdPlugin.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Mathematics.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.xml
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Game Projects\President Gumdrop\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Game Projects\President Gumdrop\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Game Projects\President Gumdrop\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Game Projects\President Gumdrop\obj\Debug\Assembly-CSharp.dll
+C:\Game Projects\President Gumdrop\obj\Debug\Assembly-CSharp.pdb
+C:\Game Projects\Junkyard\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Assembly-CSharp.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Assembly-CSharp.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\mscorlib.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\netstandard.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\PsdPlugin.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.AppContext.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Collections.Concurrent.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Collections.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Collections.NonGeneric.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Collections.Specialized.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ComponentModel.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ComponentModel.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Console.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Core.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Data.Common.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Data.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.Contracts.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.Debug.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.Process.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.Tools.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Diagnostics.Tracing.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Drawing.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Drawing.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Dynamic.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Globalization.Calendars.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Globalization.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Globalization.Extensions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.Compression.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.FileSystem.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.IsolatedStorage.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.Pipes.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Linq.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Linq.Expressions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Linq.Parallel.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Linq.Queryable.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.Http.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.NameResolution.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.NetworkInformation.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.Ping.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.Requests.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.Security.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.Sockets.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.WebSockets.Client.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Net.WebSockets.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Numerics.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Numerics.Vectors.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ObjectModel.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Reflection.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Reflection.Extensions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Reflection.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Resources.Reader.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Resources.ResourceManager.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Resources.Writer.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Extensions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Handles.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.InteropServices.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Numerics.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Serialization.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Claims.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.Principal.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Security.SecureString.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ServiceModel.Web.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Text.Encoding.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Text.RegularExpressions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.Overlapped.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.Tasks.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.Thread.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.ThreadPool.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Threading.Timer.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Transactions.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.ValueTuple.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Web.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Windows.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.Linq.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.ReaderWriter.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.Serialization.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.XDocument.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.XmlDocument.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.XmlSerializer.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.XPath.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Animation.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Animation.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Common.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Common.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.IK.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.IK.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Path.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.PixelPerfect.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Psdimporter.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.SpriteShape.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Mathematics.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Mathematics.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Rider.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.TextMeshPro.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Timeline.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Timeline.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.VisualStudio.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.VSCode.Editor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.CoreModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.GraphViewModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.PackageManagerUIModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.SceneTemplateModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UI.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UIElementsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UIElementsSamplesModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UIServiceModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UnityConnectModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AIModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AnimationModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ARModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AudioModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ClothModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.CoreModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.DirectorModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.GIModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.GridModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.InputModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.StreamingModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TerrainModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TilemapModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TLSModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UI.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UIModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UmbraModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UNETModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VFXModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VideoModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VRModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.WindModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.XRModule.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Cecil.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TestRunner.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.TestRunner.dll
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AIModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ARModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AnimationModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.AudioModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ClothModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.CoreModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.DirectorModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.GIModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.GridModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.InputModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.StreamingModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TLSModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TerrainModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TilemapModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UIModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UNETModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UmbraModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityCurlModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VFXModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VRModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VideoModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.WindModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.XRModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.CoreModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.GraphViewModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.PackageManagerUIModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.SceneTemplateModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UIElementsModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UIElementsSamplesModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UIServiceModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UnityConnectModule.xml
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Animation.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.VSCode.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.PixelPerfect.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\PsdPlugin.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.VisualStudio.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Timeline.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.TextMeshPro.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.IK.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Sprite.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Path.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.UI.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Rider.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.UI.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Mathematics.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.IK.Runtime.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Animation.Runtime.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Timeline.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.Mathematics.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Common.Runtime.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.Common.Editor.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEngine.TestRunner.pdb
+C:\Game Projects\Junkyard\Temp\Bin\Debug\UnityEditor.TestRunner.pdb
+C:\Game Projects\Junkyard\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Game Projects\Junkyard\obj\Debug\Assembly-CSharp.dll
+C:\Game Projects\Junkyard\obj\Debug\Assembly-CSharp.pdb
+C:\Game Projects\Junkyard\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
