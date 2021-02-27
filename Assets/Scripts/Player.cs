@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     public float shadowRecharge, shadowLength, raygunRecharge;
     public Rigidbody2D rigidBody;
     public static float jumpHeight = 20;
+    public float moveSpeed;
     private Vector3 playerVelocity;
     private bool groundedPlayer;
     public bool canMove, shadowActive;
@@ -73,7 +74,7 @@ public class Player : MonoBehaviour
                     direction = LastMove;
                 }
                 //gameObject.transform.position += new Vector3(dire * Time.deltaTime, 0, 0);
-                xForce = direction;// * .02f;
+                xForce = direction * moveSpeed * Time.deltaTime;// * .02f;
                 //rigidBody.AddForce(new Vector2(direction * .02f, 0), ForceMode2D.Force);
                 //rigidBody.MovePosition(gameObject.transform.position += new Vector3(direction * Time.deltaTime, 0));
                 //rigidBody.velocity = new Vector2(direction, 0);

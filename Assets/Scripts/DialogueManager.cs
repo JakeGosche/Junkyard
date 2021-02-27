@@ -140,7 +140,7 @@ public class DialogueManager : MonoBehaviour
             case 2:
                 //Add a platform
                 GameObject invisibleTile = GameObject.Find("InvisibleTile");
-                invisibleTile.transform.position = new Vector3(32.5f, -1.5f, 0);
+                invisibleTile.transform.position = new Vector3(30, -1.5f, 0);
                 Player.canMove = true;
              
                
