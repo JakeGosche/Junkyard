@@ -22,4 +22,12 @@ public class Enums
         Shadowstep,
         Raygun
     }
+
+    public enum Direction
+    {
+        Left,
+        Right,
+        Up,
+        Down,
+    }
 }

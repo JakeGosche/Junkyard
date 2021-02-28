@@ -5,7 +5,7 @@ using UnityEngine;
 public class BulletScript : MonoBehaviour
 {
     public float TimeAlive;
-    public float Speed;
+    public float xSpeed, ySpeed;
     public bool Friendly;
     // Start is called before the first frame update
     void Start()
@@ -16,7 +16,7 @@ public class BulletScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.position += new Vector3((Speed * Time.deltaTime), 0, 0);
+        transform.position += new Vector3((xSpeed * Time.deltaTime), (ySpeed * Time.deltaTime), 0);
         TimeAlive -= Time.deltaTime;
         if(TimeAlive <= 0)
         {
@@ -52,7 +52,7 @@ public class BulletScript : MonoBehaviour
         Debug.Log("Hit");
         if (Friendly)
         {
-            if (other.gameObject.CompareTag("Enemy"))
+            if (other.gameObject.CompareTag("Enemy") || other.gameObject.name == "ShootingEnemy")
             {
                 Destroy(other.gameObject);
             }

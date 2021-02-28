@@ -59,15 +59,30 @@ public class GameManager : MonoBehaviour
 
                 break;
             case 1:
-                conversationObject.DialogueArray.Add("Level 2");
+                conversationObject.DialogueArray.Add("I couldn't really think of how to make it any easier...so I just removed all the obstacles.");
 
                 break;
             case 2:
                 Player.UniqueId = 1;
                 conversationObject.DialogueArray.Add("Okay this one should be a littler harder.");
+                
 
                 break;
+            case 3:
+                conversationObject.DialogueArray.Add("Keep going!");
 
+
+                break;
+            case 4:
+                conversationObject.DialogueArray.Add("I'm starting to feel confident about this! Nothing can go wrong now!");
+                Player.UniqueId = 2;
+                    break;
+            case 5:
+                conversationObject.DialogueArray.Add("I'll make this one even more difficult.");
+                break;
+            case 6:
+                conversationObject.DialogueArray.Add("You win!");
+                break;
             default:
                 break;
         }

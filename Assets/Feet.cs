@@ -20,14 +20,27 @@ public class Feet : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("Hit floor!");
-        if (other.gameObject.CompareTag("Floor")) //&& jumping)
+        if (other.gameObject.CompareTag("Platform"))
+        {
+            transform.parent.parent = other.transform;
+            Player.jumping = false;
+        }
+        else if (other.gameObject.CompareTag("Floor")) //&& jumping)
         {
             Player.jumping = false;
         }
         else if (other.gameObject.CompareTag("Spring"))
         {
             Player.rigidBody.AddForce(new Vector2(0, springHeight), ForceMode2D.Impulse);
+        }
+    }
+
+    void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Platform"))
+        {
+            transform.parent.parent = null;
+            Player.jumping = false;
         }
     }
 }

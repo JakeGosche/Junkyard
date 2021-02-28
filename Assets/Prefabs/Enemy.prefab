@@ -125,3 +125,6 @@ MonoBehaviour:
   Bullet: {fileID: 55118634073978913, guid: cc6a418f4afe68447a8d5a31d992064e, type: 3}
   player: {fileID: 0}
   shootInterval: 0.1
+  leftPoint: {x: 0, y: 0, z: 0}
+  rightPoint: {x: 0, y: 0, z: 0}
+  movingSpeed: 3

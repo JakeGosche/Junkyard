@@ -9,6 +9,7 @@ TagManager:
   - Pit
   - Shadow
   - Spring
+  - Platform
   layers:
   - Default
   - TransparentFX

@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
     
     public float shadowRecharge, shadowLength, raygunRecharge;
     public Rigidbody2D rigidBody;
-    public static float jumpHeight = 20;
+    public float jumpHeight = 80;
     public float moveSpeed;
     private Vector3 playerVelocity;
     private bool groundedPlayer;
@@ -58,6 +58,10 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        if(Input.GetKeyDown(KeyCode.F1))
+        {
+            GameManager.StartTransition();
+        }
         bool displayInfo = false;
         if (canMove)
         {
@@ -116,7 +120,8 @@ public class Player : MonoBehaviour
                     {
                         GameObject bulletObject = Instantiate(Bullet, gameObject.transform.position + new Vector3(LastMove > 0 ? 1 : -1, 0, 0), Quaternion.identity);
                         BulletScript bs = bulletObject.GetComponent<BulletScript>();
-                        bs.Speed = LastMove * 2 * bulletSpeed;
+                        bs.xSpeed = LastMove * 2 * bulletSpeed;
+                        bs.ySpeed = 0;
                         bs.TimeAlive = .2f * bulletTime;
                         abilityInterval = raygunRecharge;
                     }
@@ -157,7 +162,19 @@ public class Player : MonoBehaviour
 
     public void TakeDamage()
     {
+       
         StartCoroutine(ResetScene());
+
+        //if (SceneManager.GetActiveScene().buildIndex == 4 && UniqueId == 2)
+        //{
+        //    canMove = false;
+        //    UniqueId = 0;
+        //    ConversationObject conversationObject = new ConversationObject();
+        //    conversationObject.DialogueArray.Add("Oh, I guess that jump was too far. Sorry. Hmmm, how should I fix this?");
+        //    conversationObject.Options.Add(new OptionObject { OptionText = "Add a platform?", DialogueId = 2 });
+        //    conversationObject.Options.Add(new OptionObject { OptionText = "Add a spring?", DialogueId = 3 });
+        //    StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObject));
+        //}
         //Health -= .1f;
         //Healthbar.value = Health;
         //if(Healthbar.value <= 0)
@@ -166,6 +183,20 @@ public class Player : MonoBehaviour
         //}
     }
 
+    public IEnumerator PauseDialogue()
+    {
+        canMove = false;
+        spriteRenderer.color = new Color(1, 1, 1, 0);
+        rigidBody.velocity = new Vector2(0, 0);
+        yield return StartCoroutine(GameManager.TransitionIn());
+
+        gameObject.transform.position = GameManager.StartingPosition;
+
+        spriteRenderer.color = new Color(1, 1, 1, 1);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + addToLevel);
+        yield return StartCoroutine(GameManager.TransitionOut());
+        canMove = true;
+    }
     //void OnCollisionEnter2D(Collision2D other)
     //{
     //    if (other.gameObject.CompareTag("Floor") && (gameObject.transform.position.y  - .9f > other.transform.position.y)) //&& jumping)
@@ -214,19 +245,30 @@ public class Player : MonoBehaviour
         if (canMove)
         {
             canMove = false;
-            if (UniqueId == 2)
-            {
-            }
+           
             spriteRenderer.color = new Color(1, 1, 1, 0);
             rigidBody.velocity = new Vector2(0, 0);
             yield return StartCoroutine(GameManager.TransitionIn());
 
             gameObject.transform.position = GameManager.StartingPosition;
-
             spriteRenderer.color = new Color(1, 1, 1, 1);
-            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + addToLevel);
             yield return StartCoroutine(GameManager.TransitionOut());
-            canMove = true;
+            if (UniqueId == 2)
+            {
+                UniqueId = 0;
+
+                ConversationObject conversationObject = new ConversationObject();
+                conversationObject.DialogueArray.Add("How would you like to get past the enemy?");
+                conversationObject.Options.Add(new OptionObject { OptionText = "Attack", DialogueId = 4 });
+                conversationObject.Options.Add(new OptionObject { OptionText = "Stealth", DialogueId = 5 });
+                StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObject));
+            }
+            else
+            {
+                //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + addToLevel);
+                
+                canMove = true;
+            }
             //GameManager.StartTransition(0);
         }
        //     gameObject.transform.position = GameManager.StartingPosition;

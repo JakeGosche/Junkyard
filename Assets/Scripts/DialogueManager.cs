@@ -42,8 +42,8 @@ public class DialogueManager : MonoBehaviour
         {
             button1.GetComponentInChildren<Text>().text = dialogueToDisplay.Options[0].OptionText;
             button2.GetComponentInChildren<Text>().text = dialogueToDisplay.Options[1].OptionText;
-            button1.gameObject.SetActive(true);
-            button2.gameObject.SetActive(true);
+            button1.SetActive(true);
+            button2.SetActive(true);
             Option1Value = dialogueToDisplay.Options[0].DialogueId;
             Option2Value = dialogueToDisplay.Options[1].DialogueId;
         } 
@@ -139,8 +139,8 @@ public class DialogueManager : MonoBehaviour
                 break;
             case 2:
                 //Add a platform
-                GameObject invisibleTile = GameObject.Find("InvisibleTile");
-                invisibleTile.transform.position = new Vector3(30, -1.5f, 0);
+                GameObject invisibleTile = GameObject.Find("Platform");
+                invisibleTile.transform.position = new Vector3(27.5f, -1.5f, 0);
                 Player.canMove = true;
              
                
@@ -151,6 +151,26 @@ public class DialogueManager : MonoBehaviour
                 spring.transform.position = new Vector3(19.5f, .5f, 0);
                 Player.canMove = true;
 
+                break;
+            case 4:
+                //Adds attack;
+                Player.upgrade = Upgrade.Raygun;
+                ConversationObject conversationObject = new ConversationObject();
+                //enable meter;
+                conversationObject.DialogueArray.Add("Cool! Try using it with left shift.");
+                StartCoroutine(GameManager.TransitionOut());
+                Player.canMove = true;
+                StartDialogueLoop(conversationObject);
+                break;
+            case 5:
+                //Adds shadowstep;
+                Player.upgrade = Upgrade.Shadowstep;
+                ConversationObject conversationObject2 = new ConversationObject();
+                //enable meter;
+                conversationObject2.DialogueArray.Add("Cool! Try using it with left shift.");
+                StartCoroutine(GameManager.TransitionOut());
+                Player.canMove = true;
+                StartDialogueLoop(conversationObject2);
                 break;
         }
     }

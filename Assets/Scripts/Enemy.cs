@@ -48,11 +48,12 @@ public class Enemy : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("Hit");
+       
      
-            if (other.gameObject.CompareTag("Player"))
+            if (other.gameObject.CompareTag("Player") && other.gameObject.name == "Player")
             {
-                Player player = other.gameObject.GetComponent<Player>();
+            Debug.Log("Hit");
+            Player player = other.gameObject.GetComponent<Player>();
                 player.TakeDamage();
             }
 
