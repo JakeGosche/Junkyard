@@ -305,7 +305,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &71836367
 BoxCollider2D:
@@ -1152,7 +1152,7 @@ Transform:
   m_Children:
   - {fileID: 1396055451}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2083941146
 BoxCollider2D:
@@ -1218,7 +1218,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4673254101023987743, guid: 8751a541d5d517648b98bb16cd66be07, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 4673254101023987743, guid: 8751a541d5d517648b98bb16cd66be07, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1601,7 +1601,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3175416991323290379, guid: 39cbe838ed1fcc54486ff62882f75faf, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3175416991323290422, guid: 39cbe838ed1fcc54486ff62882f75faf, type: 3}
       propertyPath: Player

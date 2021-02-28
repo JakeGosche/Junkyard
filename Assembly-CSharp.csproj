@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\ConversationObject.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Files\Unity\Hub\Editor\2020.2.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
