@@ -3,10 +3,19 @@ using System.Collections;
 
 public class Enums
 {
-    public enum Npc
+
+    public enum SoundEffect
     {
-        Priest,
-        None
+        Jump,
+        Death,
+        ShadowIn,
+        ShadowOut,
+        Shoot,
+        Goal,
+        Bloop,
+        Click,
+        Spring,
+        EnemyHit
     }
 
 

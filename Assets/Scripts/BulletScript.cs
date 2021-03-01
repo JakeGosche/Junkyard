@@ -26,12 +26,16 @@ public class BulletScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Hit");
+        //Debug.Log("Hit");
         if (Friendly)
         {
             if (other.gameObject.CompareTag("Enemy"))
             {
-                Destroy(other.gameObject);
+                other.gameObject.SetActive(false);
+                AudioManager audioManager = FindObjectOfType<AudioManager>();
+                audioManager.PlaySfx(Enums.SoundEffect.EnemyHit);
+
+                //Destroy(other.gameObject);
             }
 
         }
@@ -54,7 +58,10 @@ public class BulletScript : MonoBehaviour
         {
             if (other.gameObject.CompareTag("Enemy") || other.gameObject.name == "ShootingEnemy")
             {
-                Destroy(other.gameObject);
+                other.gameObject.SetActive(false);
+                AudioManager audioManager = FindObjectOfType<AudioManager>();
+                audioManager.PlaySfx(Enums.SoundEffect.EnemyHit);
+                //Destroy(other.gameObject);
             }
 
             Destroy(this.gameObject);

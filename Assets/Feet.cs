@@ -22,16 +22,20 @@ public class Feet : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Platform"))
         {
-            transform.parent.parent = other.transform;
+             Player.transform.parent = other.transform;
             Player.jumping = false;
+            Player.animator.SetBool("IsJumping", false);
         }
         else if (other.gameObject.CompareTag("Floor")) //&& jumping)
         {
             Player.jumping = false;
+            Player.animator.SetBool("IsJumping", false);
         }
         else if (other.gameObject.CompareTag("Spring"))
         {
+            Player.jumping = true;
             Player.rigidBody.AddForce(new Vector2(0, springHeight), ForceMode2D.Impulse);
+            Player.animator.SetBool("IsJumping", true);
         }
     }
 
@@ -39,8 +43,10 @@ public class Feet : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Platform"))
         {
-            transform.parent.parent = null;
-            Player.jumping = false;
+            Player.transform.parent = null;
+            DontDestroyOnLoad(Player.transform.gameObject);
+            DontDestroyOnLoad(Player.playerCamera);
+          //  Player.jumping = false;
         }
     }
 }

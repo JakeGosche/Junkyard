@@ -7,4 +7,5 @@ public class ConversationObject
 {
     public List<string> DialogueArray = new List<string>();
     public List<OptionObject> Options = new List<OptionObject>();
+    public List<int> Expressions = new List<int>();
 }

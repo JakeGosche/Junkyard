@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelEnd : MonoBehaviour
 {
-    GameManager GameManager;
+    public GameManager GameManager;
 
     private bool active = false;
     // Start is called before the first frame update
@@ -27,13 +27,15 @@ public class LevelEnd : MonoBehaviour
             active = true;
             Player player = other.gameObject.GetComponent<Player>();
             player.canMove = false;
-            if (SceneManager.GetActiveScene().buildIndex == 0)
+            GameManager.audioManager.PlaySfx(Enums.SoundEffect.Goal);
+            if (SceneManager.GetActiveScene().buildIndex == 2)
             {
-                ConversationObject conversationObject = new ConversationObject();
-                conversationObject.DialogueArray.Add("That was pretty easy, wasn't it?");
-                conversationObject.Options.Add(new OptionObject { OptionText = "Yes", DialogueId = 0 });
-                conversationObject.Options.Add(new OptionObject { OptionText = "No", DialogueId = 1});
-                StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObject));
+                GameManager.StartTransition(2);
+                //ConversationObject conversationObject = new ConversationObject();
+                //conversationObject.DialogueArray.Add("That was pretty easy, wasn't it?");
+                //conversationObject.Options.Add(new OptionObject { OptionText = "Yes", DialogueId = 0 });
+                //conversationObject.Options.Add(new OptionObject { OptionText = "No", DialogueId = 1});
+                //StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObject));
             }
             else
             {

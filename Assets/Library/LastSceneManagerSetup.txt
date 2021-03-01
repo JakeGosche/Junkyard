@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Game Projects/Junkyard/Assets/Scenes/Levels v2/Level 2.1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

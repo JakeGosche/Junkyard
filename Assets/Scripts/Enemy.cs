@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     public Vector3 leftPoint, rightPoint;
     private bool movingLeft = true;
     public float movingSpeed = 2;
+    public bool noPass = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -52,9 +53,13 @@ public class Enemy : MonoBehaviour
      
             if (other.gameObject.CompareTag("Player") && other.gameObject.name == "Player")
             {
-            Debug.Log("Hit");
+
             Player player = other.gameObject.GetComponent<Player>();
-                player.TakeDamage();
+            if (noPass && player.UniqueId == 2)
+            {
+                player.UniqueId = 3;
+            }
+            player.TakeDamage();
             }
 
             //Destroy(this.gameObject);
