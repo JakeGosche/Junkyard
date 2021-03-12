@@ -346,9 +346,7 @@ public class DialogueManager : MonoBehaviour
                     conversationObject1.Expressions.Add(2);
                     conversationObject1.DialogueArray.Add("But, um, it looks like it's not working like it's supposed to.");
                     conversationObject1.Expressions.Add(2);
-                    conversationObject1.DialogueArray.Add("To be perfectly honest this is actually the first game I've ever made a game.");
-                    conversationObject1.Expressions.Add(2);
-                    conversationObject1.DialogueArray.Add("I made this game for the Wowie jam 3.0.");
+                    conversationObject1.DialogueArray.Add("To be perfectly honest this is actually the first time I've ever made a game. I made it for Wowie jam 3.0.");
                     conversationObject1.Expressions.Add(2);
                     conversationObject1.DialogueArray.Add("I had a lot of fun making it...but I'm still running into some issues.");
                     conversationObject1.Expressions.Add(2);
@@ -388,6 +386,7 @@ public class DialogueManager : MonoBehaviour
                 yield return StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObjectEnd));
                 title.text = "The real treasure is the friends we made along the way!";
                 title.gameObject.SetActive(true);
+                audioManager.PlaySfx(SoundEffect.Goal);
                 ConversationObject conversationObjectEnd2 = new ConversationObject();
                 conversationObjectEnd2.DialogueArray.Add("Meh, that’s pretty cliche.");
                 conversationObjectEnd2.Expressions.Add(2);
@@ -395,6 +394,7 @@ public class DialogueManager : MonoBehaviour
                 conversationObjectEnd2.Expressions.Add(2);
                 yield return StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObjectEnd2));
                 title.text = "The real treasure is the friends we made along the way! And also the treasure!";
+
                 GameObject treasure = GameObject.Find("Treasure");
                 treasure.transform.position = new Vector3(3, .5f, -1);
                 audioManager.PlaySfx(SoundEffect.Goal);
@@ -405,7 +405,7 @@ public class DialogueManager : MonoBehaviour
                 yield return StartCoroutine(GameManager.DialogueManager.StartDialogueLoop(conversationObjectEnd3));
                 yield return new WaitForSecondsRealtime(2);
                 title.text = "";
-                title.color = Color.black;
+                title.color = Color.white;
                 yield return StartCoroutine(GameManager.TransitionIn());
                 title.text = "Thank you for playing!" + Environment.NewLine + Environment.NewLine + "Amanda Swiger (Aswagger) - Producer" + Environment.NewLine + "Emily Woods - Art" + Environment.NewLine + "Giordano Nin - Game Design" + Environment.NewLine + "Jake Gosche (Goatcheese) - Programming" + Environment.NewLine + "Ostrich2401 - Sound Design";
                 break;

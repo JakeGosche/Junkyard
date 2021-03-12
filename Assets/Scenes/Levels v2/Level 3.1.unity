@@ -1816,7 +1816,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7442668979638145318, guid: c671696afbd69514f954cad72fdfd162, type: 3}
       propertyPath: shootInterval
-      value: 0.5
+      value: 0.9
       objectReference: {fileID: 0}
     - target: {fileID: 7442668979638145318, guid: c671696afbd69514f954cad72fdfd162, type: 3}
       propertyPath: shootDirection

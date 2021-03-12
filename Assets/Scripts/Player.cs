@@ -280,7 +280,8 @@ public class Player : MonoBehaviour
 
     public IEnumerator ResetScene(bool startMoving = false)
     {
-        
+        animator.SetBool("IsMoving", false);
+        animator.SetBool("IsJumping", false);
         if (canMove)
         {
             foreach(Enemy enemy in GameManager.enemies)

@@ -177,10 +177,12 @@ public class GameManager : MonoBehaviour
         yield return StartCoroutine(TransitionIn());
         
         Player.gameObject.transform.position = StartingPosition;
-
+        Player.animator.SetBool("IsMoving", false);
+        Player.animator.SetBool("IsJumping", false);
         Player.spriteRenderer.color = new Color(1, 1, 1, 1);
+        yield return new WaitForSecondsRealtime(.4f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + addToLevel);
-
+      
         yield return StartCoroutine(TransitionOut());
        // Player.canMove = true;
     }
